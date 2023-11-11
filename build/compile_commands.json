@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/max/Projects/CPP-practice/Lab2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/MyExecutable.dir/src/main.cpp.o -c /home/max/Projects/CPP-practice/Lab2/src/main.cpp",
+  "file": "/home/max/Projects/CPP-practice/Lab2/src/main.cpp"
+},
+{
+  "directory": "/home/max/Projects/CPP-practice/Lab2/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/MyExecutable.dir/src/vector.cpp.o -c /home/max/Projects/CPP-practice/Lab2/src/vector.cpp",
+  "file": "/home/max/Projects/CPP-practice/Lab2/src/vector.cpp"
+}
+]
